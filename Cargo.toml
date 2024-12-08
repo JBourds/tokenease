@@ -2,5 +2,10 @@
 name = "tokenease"
 version = "0.0.0"
 edition = "2021"
+readme = "README.md"
+license = "MIT"
+description = "WIP library to make tokenizing easy."
+authors = ["Jordan Bourdeau"]
+repository = "https://github.com/jbourds/tokenease"
 
 [dependencies]
